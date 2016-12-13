@@ -8,14 +8,14 @@
 - Fork this project to your GitHub account.
 - After forking, enter the following commands in your terminal.
 ```
-$ git clone https://github.com/salman-bhai/Movies
+$ git clone https://github.com/[your github handle]/Movies
 $ cd Movies
 ```
 
 Instructions after that will be updated soon. Keep watching this space!
 
 ## Contributing
-- Kindly check the `CONTRIBUTING` document to know more about how to contribute towards further developing this website.
+- Kindly check the [`CONTRIBUTING`](https://github.com/salman-bhai/Movies/blob/master/CONTRIBUTING) to know more about how to contribute towards further developing this website.
 - The repository is open to contribution from all interested developers. Kindly send us Pull Requests with explanation as to what changes you have done.
 - Also, you can write to us by opening an [Issue](https://github.com/salman-bhai/Movies/issues) and also solve a current issue if possible.
 - A detailed explanantion of how we came to building this software is maintained at the [Wiki](https://github.com/salman-bhai/Movies/wiki) page.
