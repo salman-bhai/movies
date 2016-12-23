@@ -1,18 +1,26 @@
 # Movies
 
-## Introduction
+## About
 - A simple Database website used to book tickets for a movie show.
-- Backend is built on Ruby on Rails and Front-End using HTML, CSS and JavaScript!
+- **Back-End**: Ruby on Rails
+- **Front-End**: HTML, CSS and JavaScript
+- **Database**: SQLite
 
 ## Installation
 - Fork this project to your GitHub account.
 - After forking, enter the following commands in your terminal.
+<<<<<<< HEAD
+```bash
+$ git clone https://github.com/salman-bhai/Movies
+$ cd Movies/movies
+$ rails server
+=======
 ```
 $ git clone https://github.com/[your github handle]/Movies
 $ cd Movies
+>>>>>>> edd549406e4691af51bf8910a3fbed0dbd0d4210
 ```
-
-Instructions after that will be updated soon. Keep watching this space!
+- Now go to the localhost and explore the website and its functionality!
 
 ## Contributing
 - Kindly check the [`CONTRIBUTING`](https://github.com/salman-bhai/Movies/blob/master/CONTRIBUTING) to know more about how to contribute towards further developing this website.
