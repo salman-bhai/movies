@@ -9,7 +9,7 @@ gem 'coffee-rails', '~> 5.0'
 gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.9'
-gem 'sdoc', '~> 0.4.0',          group: :doc
+gem 'sdoc', '~> 1.0.0',          group: :doc
 gem 'spring',        group: :development
 gem 'devise'
 gem 'paperclip'
