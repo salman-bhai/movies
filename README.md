@@ -1,3 +1,8 @@
+# Movie Application
+
+This repository is a fork of the Mackenzie Child repository on how to learn Rails in a series of 12 Challenges. 
+
+## Credits
 = Movie Rating & Review App
 == Week 5 of my 12 in 12 Challenge
 
