@@ -79,12 +79,12 @@ GEM
       railties (>= 4.1.0)
       responders
       warden (~> 1.2.3)
-    elasticsearch (7.3.0)
-      elasticsearch-api (= 7.3.0)
-      elasticsearch-transport (= 7.3.0)
-    elasticsearch-api (7.3.0)
+    elasticsearch (7.4.0)
+      elasticsearch-api (= 7.4.0)
+      elasticsearch-transport (= 7.4.0)
+    elasticsearch-api (7.4.0)
       multi_json
-    elasticsearch-transport (7.3.0)
+    elasticsearch-transport (7.4.0)
       faraday
       multi_json
     erubi (1.9.0)
@@ -178,7 +178,7 @@ GEM
       tilt
     sdoc (1.0.0)
       rdoc (>= 5.0)
-    searchkick (4.1.0)
+    searchkick (4.1.1)
       activemodel (>= 5)
       elasticsearch (>= 6)
       hashie
