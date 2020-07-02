@@ -178,7 +178,7 @@ GEM
       tilt
     sdoc (1.1.0)
       rdoc (>= 5.0)
-    searchkick (4.4.0)
+    searchkick (4.4.1)
       activemodel (>= 5)
       elasticsearch (>= 6)
       hashie
